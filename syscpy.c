@@ -1,4 +1,4 @@
-/// @file syscpy.cpp
+/// @file syscpy.c
 /// @brief - Copies a file on the user's computer using system calls.
 /// @author Tyler Edwards - tk.edwards2003@gmail.com
 
